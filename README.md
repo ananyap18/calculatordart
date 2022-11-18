@@ -1,3 +1,3 @@
 # calculatorapp
 
-A new Flutter project.
+A Flutter project to understand the basics of flutter. 
